@@ -34,6 +34,22 @@ body {
   display: block;
   }
 
+#about {
+  color: #fff;
+  background-color: #000;
+  padding: 2em 0;
+  }
+
+#about p {
+  font-size: .5em;
+  Line-hight: .5;
+  text-align: center;
+  margin-Top: .5em;
+  margin-bottom: .5em;
+
+#about span {
+  display: block;
+  }
 
 #numbers {
   color: #666;
