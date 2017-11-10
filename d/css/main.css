@@ -1,5 +1,8 @@
 html {
-  font: 100%/1.15 serif;
+  font-size: 100%
+  line-height: 1.15 serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
   }
 
 body {
@@ -41,11 +44,11 @@ body {
   }
 
 #about p {
-  font-size: .5em;
+  font-size: 3em;
   Line-hight: .5;
   text-align: center;
-  margin-Top: .5em;
-  margin-bottom: .5em;
+  margin-Top: 0;
+  margin-bottom: 0;
 
 #about span {
   display: block;
