@@ -116,15 +116,36 @@ nav  li a:hover {
 
 #about {
   position: relative;
-  top: -10em;
+  top: -9em;
   width: 35%;
   background: #fff;
-  padding: 1em;
+  padding: 2em;
   margin: 0 auto;
   }
 #author {
-  position: right;
-  top: -10em;
+  text-align: right;
+  position: relative;
+  top: 0 0 0 0;
+  width: 35%;
+  background: #666;
+  padding: 1em;
+  margin: 0 auto;
+  }
+
+#Weights {
+  text-align: right;
+  position: relative;
+  top: 0 0 0 0;
+  width: 35%;
+  background: #666;
+  padding: 1em;
+  margin: 0 auto;
+  }
+
+#Weights {
+  text-align: right;
+  position: relative;
+  top: 0 0 0 0;
   width: 35%;
   background: #666;
   padding: 1em;
