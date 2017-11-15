@@ -134,7 +134,7 @@ nav  li a:hover {
 
 #Weights {
   position: relative;
-  top: 6;
+  top: 3;
   width: 35%;
   background: #fff;
   padding: 2em;
@@ -143,10 +143,19 @@ nav  li a:hover {
 
 #styles {
   position: relative;
-  top: 6;
+  top: 3;
   width: 35%;
   background: #fff;
   padding: 1em;
+  margin: 0 auto;
+  }
+
+#tryme {
+  position: relative;
+  top: 3;
+  width: 35%;
+  background: #fff;
+  padding: 3em;
   margin: 0 auto;
   }
 
