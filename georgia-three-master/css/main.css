@@ -63,7 +63,7 @@ nav  li a:hover {
 #numbers {
   color: #666;
   padding: 2em 0;
-  border-bottom: 1px dotted #000;
+  /* border-bottom: 1px dotted #000; */
   }
 
 #numbers p {
@@ -116,18 +116,46 @@ nav  li a:hover {
 
 #about {
   position: relative;
-  top: -10em;
+  top: -9em;
+  width: 35%;
+  background: #fff;
+  padding: 2em;
+  margin: 0 auto;
+  }
+#author {
+  text-align: right;
+  position: relative;
+  top: 6;
+  width: 35%;
+  background: #666;
+  padding: 1em;
+  margin: 0 auto;
+  }
+
+#Weights {
+  position: relative;
+  top: 3;
+  width: 35%;
+  background: #fff;
+  padding: 2em;
+  margin: 0 auto;
+  }
+
+#styles {
+  position: relative;
+  top: 3;
   width: 35%;
   background: #fff;
   padding: 1em;
   margin: 0 auto;
   }
-#author {
-  position: right;
-  top: -10em;
+
+#tryme {
+  position: relative;
+  top: 3;
   width: 35%;
-  background: #666;
-  padding: 1em;
+  background: #fff;
+  padding: 3em;
   margin: 0 auto;
   }
 
